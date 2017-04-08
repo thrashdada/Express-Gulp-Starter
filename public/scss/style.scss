@@ -1,13 +1,9 @@
+@import 'variables';
+@import 'typography';
+
 body {
-  font-family: sans-serif;
-  background: #fdfdfd;
-  h1 {
-    text-transform: uppercase;
-    color: purple;
-    font-size: 28px;
-  }
-  p {
-    font-size: 18px;
-    font-weight: 300;
-  }
+  background: $color-primary;
 }
+ p {
+   color: orange;
+ }

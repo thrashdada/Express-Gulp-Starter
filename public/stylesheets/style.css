@@ -1,15 +1,11 @@
+h1 {
+  color: #fff;
+}
+
 body {
-  font-family: sans-serif;
-  background: #fdfdfd;
+  background: rgba(26, 19, 31, 0.91);
 }
 
-body h1 {
-  text-transform: uppercase;
-  color: purple;
-  font-size: 28px;
-}
-
-body p {
-  font-size: 18px;
-  font-weight: 300;
+p {
+  color: orange;
 }
