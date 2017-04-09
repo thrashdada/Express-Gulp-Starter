@@ -1,0 +1,20 @@
+$page-colours: (
+	red: #f44336,
+	purple: #9C27B0,
+	blue: #2196F3,
+	teal: #009688,
+	green: #4CAF50,
+	yellow: #FFEB3B,
+	orange: #FF5722,
+	black: #212121
+);
+
+@each $page-colour, $colour in $page-colours {
+	.bg-#{$page-colour} {
+		background-color: $colour;
+		border-color: $colour;
+	}
+	.c-#{$page-colour} {
+		background-color: $colour;
+	}
+}

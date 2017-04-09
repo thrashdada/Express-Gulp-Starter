@@ -2,6 +2,78 @@ h1 {
   color: #fff;
 }
 
+.bg-red {
+  background-color: #f44336;
+  border-color: #f44336;
+}
+
+.c-red {
+  background-color: #f44336;
+}
+
+.bg-purple {
+  background-color: #9C27B0;
+  border-color: #9C27B0;
+}
+
+.c-purple {
+  background-color: #9C27B0;
+}
+
+.bg-blue {
+  background-color: #2196F3;
+  border-color: #2196F3;
+}
+
+.c-blue {
+  background-color: #2196F3;
+}
+
+.bg-teal {
+  background-color: #009688;
+  border-color: #009688;
+}
+
+.c-teal {
+  background-color: #009688;
+}
+
+.bg-green {
+  background-color: #4CAF50;
+  border-color: #4CAF50;
+}
+
+.c-green {
+  background-color: #4CAF50;
+}
+
+.bg-yellow {
+  background-color: #FFEB3B;
+  border-color: #FFEB3B;
+}
+
+.c-yellow {
+  background-color: #FFEB3B;
+}
+
+.bg-orange {
+  background-color: #FF5722;
+  border-color: #FF5722;
+}
+
+.c-orange {
+  background-color: #FF5722;
+}
+
+.bg-black {
+  background-color: #212121;
+  border-color: #212121;
+}
+
+.c-black {
+  background-color: #212121;
+}
+
 body {
   background: rgba(26, 19, 31, 0.91);
 }
