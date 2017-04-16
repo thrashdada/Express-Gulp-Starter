@@ -1,5 +1,9 @@
 # Express-Gulp-Starter
 
-run
+Run
+```
 > gulp
+```
+```
 > set DEBUG=webapp:* & npm start
+```
